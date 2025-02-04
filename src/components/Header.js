@@ -5,8 +5,6 @@ function Header(props) {
     <>
       <h1>hello from the Header!</h1>
 
-      {/* Uncomment the line below to pass the test */}
-      {/* <h1>hello from the Header!</h1> */}
     </>
   );
 }
